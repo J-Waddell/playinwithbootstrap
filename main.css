@@ -13,3 +13,7 @@ h1{
 .col-md-3{
 	border: 1px solid black;
 }
+
+.header-image{
+	width: 250px;
+}
